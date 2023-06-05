@@ -1,0 +1,58 @@
+authors.tsv
+- - - - - - - - - - - - -
+
+id
+numero di riferimento autore
+
+author
+nome e cognome dell'autore
+
+name
+nome dell'autore
+
+surname
+cognome dell'autore
+
+author_w
+pagina dell'autore su Wikipedia (https://it.wikipedia.org/wiki/)
+
+author_ws_it
+pagina dell'autore su Wikisource (https://it.wikisource.org/wiki/)
+
+author_ws_la
+pagina dell'autore su Wicifons (https://la.wikisource.org/wiki/)
+
+period_
+periodo in cui ha vissuto l'autore
+
+period
+periodo in cui ha vissuto l'autore normalizzato
+
+source
+lingua utilizzata dall'autore (italiano/latino)
+
+school
+anno scolastico in cui è normalmente trattato l'autore a scuola
+
+
+
+
+publications.tsv
+- - - - - - - - - - - - -
+
+id	
+numero di riferimento pubblicazione
+
+author
+nome e cognome dell'autore
+
+pubb_w	
+titolo della pubblicazione su Wikipedia (https://it.wikipedia.org/wiki/)
+
+pubbl_it
+titolo della pubblicazione su Wikisource (https://it.wikisource.org/wiki/)
+
+pubbl_la
+titolo della pubblicazione su Wicifons (https://la.wikisource.org/wiki/)
+
+

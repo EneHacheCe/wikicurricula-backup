@@ -1,0 +1,128 @@
+id_wikidata	
+numero di riferimento su Wikidata
+
+article
+titolo della voce
+
+previous_title
+titolo della voce nell'anno precedente
+
+subject
+materia
+
+theme
+tematica
+
+argument
+argomento
+
+exhisting
+1 (voce esistente) / 0 (voce non esistente)
+
+avg_pv
+	2020_articles visite medie giornaliere nel periodo compreso tra il 1° giugno 2019 e il 31 maggio 2020
+	2021_articles visite medie giornaliere nel periodo compreso tra il 1° giugno 2020 e il 31 maggio 2021
+
+avg_pv_prev
+	2020_articles visite medie giornaliere nel periodo compreso tra il 1° luglio 2015 e il 31 maggio 2020
+	2021_articles visite medie giornaliere nel periodo compreso tra il 1° giugno 2020 e il 30 maggio 2021
+
+all_visits
+visite totali dal 2015
+
+size
+	2020_articles dimensione, in byte, a maggio del 2020
+	2021_articles dimensione, in byte, a maggio del 2021
+
+size_prev
+	2021_articles dimensione, in byte, a maggio del 2020
+
+incipit_size
+	2020_articles dimensione dell'incipit, in byte, a maggio 2020
+	2021_articles dimensione dell'incipit, in byte, a maggio 2021
+
+incipit_prev
+	2021_articles dimensione dell'incipit, in byte, a maggio 2020
+
+incipit_on_size
+	2020_articles proporzione dell'incipit rispetto alla dimensione totale della voce, in byte, a maggio 2020
+	2021_articles proporzione dell'incipit rispetto alla dimensione totale della voce, in byte, a maggio 2020
+
+discussion_size
+	2020_articles dimensione pagina di discussione, in byte, a maggio 2020
+	2021_articles dimensione pagina di discussione, in byte, a maggio 2021
+
+discussion_prev
+	2021_articles dimensione pagina di discussione, in byte, a maggio 2020
+
+references
+	2020_articles numero di riferimenti bibliografici a maggio del 2020 (valori stimati)
+	2021_articles numero di riferimenti bibliografici a maggio del 2021 (valori stimati)
+
+references_prev
+	2021_articles numero di riferimenti bibliografici a maggio del 2020 (valori stimati)
+
+notes
+	2020_articles numero di note a maggio del 2020
+	2021_articles numero di note a maggio del 2021
+
+notes_prev
+	2021_articles numero di note a maggio del 2020
+
+images
+	2020_articles numero di immagini a maggio del 2020
+	2021_articles numero di immagini a maggio del 2021
+
+images_prev
+	2021_articles numero di immagini a maggio del 2020
+
+issues
+	2020_articles numero di avvisi a maggio del 2020
+	2021_articles numero di avvisi a maggio del 2021
+
+issues_prev
+	2021_articles numero di avvisi a maggio del 2020
+
+issue_sourceNeeded
+	2020_articles numero di avvisi riguardanti la mancanza di riferimenti bibliografici a maggio 2020
+	2021_articles numero di avvisi riguardanti la mancanza di riferimenti bibliografici a maggio 2021
+
+issue_clarify
+	2020_articles numero di avvisi riguardanti la necessità di chiarire delle frasi a maggio 2020
+	2021_articles numero di avvisi riguardanti la necessità di chiarire delle frasi a maggio 2021
+
+year
+anno in cui l'argomento è trattato a scuola
+
+	0	scuola elementare (in generale)
+	0.1	prima elementare
+	0.2 seconda elementare
+	0.3 terza elementare
+	0.4 quarta elementare
+	0.5 quinta elementare
+
+	1	scuola media (in generale)
+	1.1	prima media
+	1.2 seconda media
+	1.3 terza media
+
+	2	scuola superiore (in generale)
+	2.1	prima superiore
+	2.2 seconda superiore
+	2.3 terza superiore
+	2.4 quarta superiore
+	2.5 quinta superiore
+
+
+first_edit
+data in cui è stata creata la voce
+
+days
+	2020_articles giorni trascorsi dalla data di creazione della voce al 1° giugno 2020
+	2021_articles giorni trascorsi dalla data di creazione della voce al 1° giugno 2021
+
+VdQ
+voce di qualità
+
+vetrina
+voce messa in vetrina
